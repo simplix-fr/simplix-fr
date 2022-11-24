@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simplix-fr alias @yurayko on Twitter.
-- 👀 I’m interested in ...
+- 👀 I’m interested in FE.
 - 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Twitter.
